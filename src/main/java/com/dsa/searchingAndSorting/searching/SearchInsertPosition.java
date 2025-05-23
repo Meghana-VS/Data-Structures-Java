@@ -1,4 +1,4 @@
-package com.dsa.searchingAndSorting;
+package com.dsa.searchingAndSorting.searching;
 
 // https://leetcode.com/problems/search-insert-position/description/
 public class SearchInsertPosition {

@@ -1,4 +1,4 @@
-package com.dsa.searchingAndSorting;
+package com.dsa.searchingAndSorting.searching;
 
 // https://leetcode.com/problems/search-in-rotated-sorted-array/description/
 public class SearchInRotatedSortedArray {
